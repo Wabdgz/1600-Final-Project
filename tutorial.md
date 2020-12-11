@@ -7,4 +7,8 @@
 ## 2. Next open Brackets and create an HTML file.
 -Open a new file and then click save as. When prompted enter the file name of your choice folled by the ".html" extension.
 
--Example: (name).html
+![new](new.PNG)    ![new](saveas.PNG)
+
+![name](name.PNG)
+
+
