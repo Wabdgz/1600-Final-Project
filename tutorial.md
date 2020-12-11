@@ -37,7 +37,11 @@
 </svg>
 <body>
 ```
--To create the stick figure you must add a series of shapes inside the svg element. the x and y aspects determine where in the svg box the shapes will be. It is very important to have the svg box height and width the same as I have above otherwise the figure will be distorted. There is also some inline CSS that cannot be added under the "<style>" tag so it must be put in the shape tags.
+-To create the stick figure you must add a series of shapes inside the svg element. 
+-the x and y aspects determine where in the svg box the shapes will be. 
+**-It is very important to have the svg box height and width the same as I have above otherwise the figure will be distorted.**
+-There is also some inline CSS that cannot be added under the "<style>" tag so it must be put in the shape tags.
+     
 ```
 <circle cx="350" cy="100" r="40" stroke="black" stroke-width="5" fill="white"></circle>  
      
