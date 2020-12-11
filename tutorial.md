@@ -15,9 +15,15 @@
 
 ![tags](tags.PNG)
 
--inside the head tag add the language identifier for english. Then add the style tag within the head element, this will be used to add CSS style later.
+-Inside the head tag add the language identifier for english. 
+
+-Then add the style tag within the head element, this will be used to add CSS style later.
+
+-Next add a title tag inside the head tag, this is what will be the title of the web page. 
+
 ```
 <head lang="en">
+<title> Title </title>
 <style></style>
 <head>
 ```
