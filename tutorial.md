@@ -15,9 +15,9 @@
 
 HTML has 5 required tags:
 
-'<!DOCTYPE html>
+`<!DOCTYPE html>
 <html>
 <head>
 <title>    
-<body>'
+<body>`
 
