@@ -11,7 +11,7 @@
 
 ![name](name.png)
 
-## 3. HTML Document structure:
+## 3. HTML Document structure.
 -There are 5 required tags in an HTML file:
 
 ![tags](tags.PNG)
@@ -60,4 +60,26 @@
  <line x1="350" x2="315" y1="278" y2="340" stroke="black" stroke-width="5"></line>
      
 <line x1="350" x2="390" y1="278" y2="340" stroke="black" stroke-width="5"></line>
+```
+
+## Add CSS.
+-In the style tag add the following code to add some style to the page.
+
+-You can choose whatever color you want and change whatever you like.
+
+-The one thing to not change however is the "text-align: center;" this is so that the svg box is centered within the page and the figure is centered within the box.
+
+```
+<style>
+      body{
+          background-color: antiquewhite;
+          text-align: center;
+          margin-top: 100px;
+      }
+      
+      #box{
+          text-align: center;
+      }
+        
+</style>  
 ```
