@@ -5,10 +5,19 @@
 -Follow this link to download [Brackets](http://brackets.io/).
 
 ## 2. Next open Brackets and create an HTML file.
--Open a new file and then click save as. When prompted enter the file name of your choice folled by the ".html" extension.
+-Open a new file and then click save as. When prompted enter the file name of your choice followed by the ".html" extension.
 
 ![new](new.png)    ![saveas](saveas.png)
 
 ![name](name.png)
 
+## 3. Now it is time to set up the HTML document, every HTML document must be set up the same way:
 
+HTML has 5 required tags:
+'
+<!DOCTYPE html>
+<html>
+<head>
+<title>    
+<body>
+'
