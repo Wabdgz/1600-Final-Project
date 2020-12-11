@@ -17,10 +17,8 @@
 
 -inside the head tag add the language identifier for english. Then add the style tag within the head element, this will be used to add CSS style later.
 ```
-{
 <head lang="en">
 <style></style>
 <head>
-}
 ```
 
