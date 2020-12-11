@@ -27,4 +27,13 @@
 <style></style>
 <head>
 ```
+## 4. Creating the SVG image.
+-Start by adding an SVG tag inside the body tag.
 
+-Give the svg element the id of "box" which we will use to give the element specific CSS later. the height and width create a box that can house svg content.
+```
+<body>
+<svg id="box" height="600" width="700">
+</svg>
+<body>
+```
