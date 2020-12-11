@@ -12,12 +12,8 @@
 ![name](name.png)
 
 ## 3. Now it is time to set up the HTML document, every HTML document must be set up the same way:
+-HTML has 5 required tags:
+[tags](tags.png)
 
-HTML has 5 required tags:
 
-`<!DOCTYPE html>
-<html>
-<head>
-<title>    
-<body>`
 
