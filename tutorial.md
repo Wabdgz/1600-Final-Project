@@ -5,7 +5,7 @@
 -Follow this link to download [Brackets](http://brackets.io/).
 
 ## 2. Next open Brackets and create an HTML file.
--Open a new file and then click save as. When prompted enter the file name of your choice followed by the ".html" extension.
+-Open a new file and then click save as. When prompted enter the file name of your choice followed by the ".html" extension and then save.
 
 ![new](new.png)    ![saveas](saveas.png)
 
@@ -39,7 +39,7 @@
 ```
 -To create the stick figure you must add a series of shapes inside the svg element. 
 
--the x and y aspects determine where in the svg box the shapes will be. 
+-the x and y coordinates determine where in the svg box the shapes will be. 
 
 **-It is very important to have the svg box height and width the same as I have above otherwise the figure will be distorted.**
 
