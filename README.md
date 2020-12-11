@@ -1,7 +1,7 @@
 
 ## In this Tutorial I will show how I made this SVG stick character.
 
-![bob](bob.jpg)
+![bob](bob.png)
 
 [Take this Link to see my Code.](SVG.html)
 
