@@ -14,10 +14,10 @@
 ## 3. Now it is time to set up the HTML document, every HTML document must be set up the same way:
 
 HTML has 5 required tags:
-'
-<!DOCTYPE html>
+
+'<!DOCTYPE html>
 <html>
 <head>
 <title>    
-<body>
-'
+<body>'
+
