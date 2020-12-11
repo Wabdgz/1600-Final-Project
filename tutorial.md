@@ -13,7 +13,7 @@
 
 ## 3. Now it is time to set up the HTML document, every HTML document must be set up the same way:
 -HTML has 5 required tags:
-[tags](tags.PNG)
+![tags](tags.PNG)
 
 
 
