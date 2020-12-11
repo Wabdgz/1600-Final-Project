@@ -62,7 +62,7 @@
 <line x1="350" x2="390" y1="278" y2="340" stroke="black" stroke-width="5"></line>
 ```
 
-## Add CSS.
+## 5. Add CSS.
 -In the style tag add the following code to add some style to the page.
 
 -You can choose whatever color you want and change whatever you like.
@@ -83,3 +83,4 @@
         
 </style>  
 ```
+## Now you have an SVG created stick figure. Name him/her whatever you like and I hope you enjoyed this tutorial!
