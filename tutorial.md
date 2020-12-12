@@ -85,4 +85,5 @@
 ```
 ## Now you have an SVG created stick figure. Name him/her whatever you like and I hope you enjoyed this tutorial!
 [Back to Start page.](README.md)
-[Compare your code with mine.](SVG.html)
+
+[Compare your code with mine.](SVG.md)
